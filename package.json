@@ -1,0 +1,9 @@
+{
+  "name": "download-norwegian-short-sale-register",
+  "version": "1.0.0",
+  "main": "download.js",
+  "dependencies": {
+    "norwegian-short-sale-register": "^1.0.17",
+    "xhr2": "^0.2.1"
+  }
+}
